@@ -43,10 +43,8 @@ export const useProduct = ({ onChange, product, value = 0, initialValues }: useP
         counter,
         isMaxCountReached: !!initialValues?.count && initialValues.maxCount === counter,
         maxCount: initialValues?.maxCount,
-        
         increaseBy,
         reset
-
     }
 
 }
