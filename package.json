@@ -39,8 +39,8 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "do-product-card",
-  "author": "Fernando Herrera",
+  "name": "luiskalo95-do-product-card",
+  "author": "Luis Gutierrez",
   "module": "dist/do-product-card.esm.js",
   "size-limit": [
     {
